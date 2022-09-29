@@ -13,6 +13,6 @@
  <p>
  Watch the project here:<br>
  
- [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0CZLzkZP0Wc/0.jpg)](https://www.youtube.com/watch?v=0CZLzkZP0Wc)
+ [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/x6E8KjEp5-Y/0.jpg)](https://www.youtube.com/watch?v=x6E8KjEp5-Y)
  
  </p>
